@@ -1,3 +1,3 @@
 Hello!!!
 Welcome to karunya University
-GitHub lab
+GitHub lab for beginners
