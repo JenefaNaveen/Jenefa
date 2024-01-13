@@ -3,4 +3,5 @@ Welcome to karunya University
 GitHub lab for beginners
 
 
-Creating a clone from the local machine to online repository
+Exercise-2 Creating a clone from the local machine to online repository
+
